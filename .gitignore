@@ -1,0 +1,51 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+env/
+.DS_Store
+*.ipynb_checkpoints/
+.ipynb_checkpoints
+*.swp
+*.swo
+*~
+
+# Large training data files (exclude from Git)
+train_data.csv
+train_labels.csv
+train_data_*.csv
+test1_data_*.csv
+test2_data_*.csv
+train_labels_sample.csv
+train_data_sample.csv
+train_data_aggregated.csv
+train_data_split.csv
+test1_data_split.csv
+test2_data_split.csv
+train_data_nn.csv
+test1_data_nn.csv
+test2_data_nn.csv
+
+# Model files to keep (these are small enough)
+# final_xgb_model.json - KEEP
+# final_nn_model.keras - EXCLUDE (if too large)
+final_nn_model.keras
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+Thumbs.db

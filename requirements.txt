@@ -1,0 +1,21 @@
+
+# requirements.txt for macOS Apple Silicon
+tensorflow-macos==2.16.1
+tensorflow-metal==1.2.0
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+xgboost==2.1.2
+shap==0.46.0
+joblib==1.4.2
+plotly==5.24.1
+notebook
+ipykernel
+
+# Web Application Dependencies
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
