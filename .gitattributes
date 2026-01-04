@@ -1,0 +1,5 @@
+results/train_data_sample.csv filter=lfs diff=lfs merge=lfs -text
+results/train_data_aggregated.csv filter=lfs diff=lfs merge=lfs -text
+results/train_data_split.csv filter=lfs diff=lfs merge=lfs -text
+results/test1_data_split.csv filter=lfs diff=lfs merge=lfs -text
+results/test2_data_split.csv filter=lfs diff=lfs merge=lfs -text
