@@ -16,6 +16,17 @@ A premium web application for credit default prediction using machine learning. 
 - **🎨 Premium Design**: Dark theme with glassmorphism, gradients, and smooth animations
 - **📱 Responsive**: Works beautifully on desktop, tablet, and mobile
 
+
+## Data Access
+Due to GitHub size limitations, datasets and model artifacts
+are hosted externally.
+
+Download the data from
+https://www.kaggle.com/competitions/amex-default-prediction/data
+We will work with “train_data.csv” and “train_labels.csv”. “train_labels.csv” shows default status of customers as of April 2018 (target variable). “train_data.csv” shows their activity in the last 13 months (April 2017 to April 2018). These characteristics will be used to define independent variables. 
+
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
