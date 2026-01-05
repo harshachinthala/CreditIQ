@@ -18,8 +18,6 @@ A premium web application for credit default prediction using machine learning. 
 
 
 ## Data Access
-Due to GitHub size limitations, datasets and model artifacts
-are hosted externally.
 
 Download the data from
 https://www.kaggle.com/competitions/amex-default-prediction/data
@@ -233,7 +231,3 @@ This project is for educational purposes. The dataset is from the Amex Kaggle co
 - **Libraries**: Flask, XGBoost, Chart.js, TensorFlow
 
 ---
-
-**Built using XGBoost, Flask, and premium web design**
-
-For questions or issues, please open an issue on GitHub.
