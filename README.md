@@ -4,12 +4,15 @@ Demo Link: https://harshachinthala-creditiq.hf.space/
 
 A premium web application for credit default prediction using machine learning. Built with Flask, XGBoost, and a stunning dark-themed UI.
 
+### 🧠 Tech Stack & Skills
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-94.5%25%20AUC-brightgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-blue)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-red?logo=chart.js&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-lightgrey)
 
 ## ✨ Features
 
